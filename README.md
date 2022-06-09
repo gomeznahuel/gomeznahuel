@@ -15,7 +15,7 @@ const me = {
   links: {
     website: "https://www.gomeznahuel.com.ar",
     linkedIn: "linkedin.com/in/gomeznahuel",
-    eMail: "ngomezdw@gmail.com"
+    email: "ngomezdw@gmail.com"
   }
 };
 ```
