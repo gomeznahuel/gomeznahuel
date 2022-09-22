@@ -5,16 +5,15 @@ const me = {
   name: "Nahuel Gómez",
   country: "Argentina",
   openToWork: true,
-  occupation: "Frontend Developer",
+  occupation: "Full Stack Developer",
   technologies: [
-    "JavaScript", "React", "TypeScript",
-    "Node", "Express", "SQL",
-    "HTML", "CSS", "Sass",
-    "Bootstrap", "Chakra UI",
+    "JavaScript", "React", "Next JS", "TypeScript", 
+    "Node", "Express", "MongoDB", "MySQL",
+    "Chakra UI", "Tailwind CSS", "Bootstrap", 
   ],
   links: {
     website: "https://www.gomeznahuel.com.ar",
-    linkedIn: "linkedin.com/in/gomeznahuel",
+    linkedIn: "https://www.linkedin.com/in/gomeznahuel",
     email: "ngomezdw@gmail.com"
   }
 };
